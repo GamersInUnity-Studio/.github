@@ -9,6 +9,7 @@ GamersInUnity is an industry-leading Game Development Studio that has been in th
 Here are some of our recent projects:
 
 - [Spike Hopper](https://gamersinunity-studio.itch.io/spike-hopper): A game similar to flappy bird but with a twist and a bit harder.
+- [SuperPacker](https://store.steampowered.com/app/3926560/SuperPacker/): An idle game about packing boxes.
 
 ## Contributing
 
@@ -16,4 +17,4 @@ We welcome contributions to our projects, but currently we do not have any proje
 
 ## Contact Us
 
-You can reach us at [gamedevdemonkingswarn@gmail.com](mailto:gamedevdemonkingswarn@gmail.com) for any inquiries or collaboration opportunities. Follow us on [LinkedIn](https://www.linkedin.com/company/gamersinunity-studio/) for updated on our latest projects.
+You can reach us at [gamersinunity@gmail.com](mailto:gamersinunity@gmail.com) for any inquiries or collaboration opportunities. Follow us on [LinkedIn](https://www.linkedin.com/company/gamersinunity-studio/) for updated on our latest projects.
